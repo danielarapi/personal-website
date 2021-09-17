@@ -9,5 +9,6 @@ background_shapes:
   header_bg_image: images/backgrounds/header-bg.svg
   wave_bg_image: images/backgrounds/wave-bg.svg
   footer_bg_image: images/backgrounds/footer-bg.svg
+draft: true
 
 ---
