@@ -28,12 +28,12 @@ mission:
     content: Content goes here
 youtube:
   enable: true
-  title: Don’t forget to subscribe my Youtube channel “Richi Andorn”
+  title: Don’t forget to subscribe my YouTube channel “Daniel Arapi”
   image: images/youtube.png
   video_id: dyZcRRWiuuw
-  channel: https://www.youtube.com/channel/UCx9qVW8VF0LmTi4OF2F8YdA
+  channel: https://www.youtube.com/channel/UCd9XajD2QX06VW58MA7SBMQ
 partners:
-  enable: true
+  enable: false
   title: My Contents also published <br> on these websites
   logos:
   - images/logos/logo-1.png
