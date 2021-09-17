@@ -47,6 +47,6 @@ partners:
   - images/logos/logo-9.png
 
 ---
-## Helllo I’m Daniel Arapi. I’m a DevOps Sr Network Engineer.
+## Hello! I'm Daniel Arapi
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Velit massa vitae felis augue. In venenatis scelerisque accumsan egestas mattis. Massa feugiat in sem pellentesque.
+Passionate about technology. Always learning new things.
