@@ -1,24 +1,21 @@
 ---
 title: About Me
 image: images/about-me.jpg
-description: This is meta description
+description: About
 layout: about-me
 education:
   enable: true
   title: Educational Qualification <br> That I Have Gathered
   degree:
-  - name: BEng Electronic Engineering
+  - name: B.S. Network Engineering
     duration: September 2000 - May 2004
-    academy: University Of California
-  - name: MSc in Research Methodology
+    academy: DeVry Univeristy
+  - name: CCNP Enterpise
     duration: September 2000 - May 2004
-    academy: University Of California
-  - name: BEng Electronic Engineering
+    academy: Cisco
+  - name: CCNA Security
     duration: September 2000 - May 2004
-    academy: University Of California
-  - name: MSc in Research Methodology
-    duration: September 2000 - May 2004
-    academy: University Of California
+    academy: Cisco
 mission:
   enable: true
   title: What is the main mission of mine and what i wanna do?
