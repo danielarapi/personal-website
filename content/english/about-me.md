@@ -7,13 +7,16 @@ education:
   enable: true
   title: Educational Qualification <br> That I Have Gathered
   degree:
+  - name: Minor in Computer Science
+    duration: September 2000 - May 2004
+    academy: DePaul University
   - name: B.S. Network Engineering
     duration: September 2000 - May 2004
     academy: DeVry Univeristy
-  - name: CCNP Enterpise
+  - name: CCNP Enterprise Certification
     duration: September 2000 - May 2004
     academy: Cisco
-  - name: CCNA Security
+  - name: CCNA Security Certification
     duration: September 2000 - May 2004
     academy: Cisco
 mission:
