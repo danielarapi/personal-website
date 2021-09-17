@@ -20,9 +20,12 @@ mission:
   enable: true
   title: What is the main mission of mine and what i wanna do?
   image: images/mission.png
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-    At vero eos et accusam et justo duo dolores et ea rebum.
+  content: This blog was originally intended to be about my journey towards the CCIE.
+    However, plans have changed and I decided to pursue other interests, primarily
+    Cloud and DevOps.
+  mission_item:
+  - name: Mission Item 1
+    content: Content goes here
 youtube:
   enable: true
   title: Don’t forget to subscribe my Youtube channel “Richi Andorn”
@@ -46,4 +49,4 @@ partners:
 ---
 ## Hello! I'm Daniel Arapi
 
-Passionate about technology. Always learning new things.
+I'm a Network Engineer whose passionate about technology and always learning new things.
